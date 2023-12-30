@@ -25,14 +25,9 @@ Serving the HTML pages.
 ### Step 5:
 
 Testing the webserver
-
 ## PROGRAM:
 ![code](https://github.com/ARCHANAT1305/webserver/assets/145975189/d574b363-5533-4b1f-84ca-52251e234189)
-
-
 ## OUTPUT:
 ![http server](https://github.com/ARCHANAT1305/webserver/assets/145975189/4cf4be34-5cd5-46b3-b75e-79a26e2d2ab1)
-
-
 ## RESULT:
 The program is executed succesfully
